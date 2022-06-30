@@ -4,14 +4,14 @@
 
 I'm just a noob CS student 😄
 
-/*
+<!--START_SECTION:waka
 ### My Skills 😤
 [![Frontend](https://skillicons.dev/icons?i=js,html,css,emotion,materialui,nextjs,react,sass,styledcomponents)](https://skillicons.dev)\
 [![Backend](https://skillicons.dev/icons?i=express,appwrite,firebase,nestjs,nodejs,prisma,spring)](https://skillicons.dev)\
 [![Infra](https://skillicons.dev/icons?i=azure,cloudflare,docker,gcp,grafana,prometheus)](https://skillicons.dev)\
 [![DB](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)\
 [![Mobile](https://skillicons.dev/icons?i=flutter,swift)](https://skillicons.dev)
-*/
+
 ### Tools ⚙️
 [![tools](https://skillicons.dev/icons?i=vscode,androidstudio,arduino,figma,github,git,idea,stackoverflow)](https://skillicons.dev)
 
