@@ -4,19 +4,14 @@
 
 I'm just a noob CS student 😄
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Mixko50&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
-
-<p align="center">
-	<img src="./apod-lighthouse.svg" width="800px">
-</p>
-
+/*
 ### My Skills 😤
 [![Frontend](https://skillicons.dev/icons?i=js,html,css,emotion,materialui,nextjs,react,sass,styledcomponents)](https://skillicons.dev)\
 [![Backend](https://skillicons.dev/icons?i=express,appwrite,firebase,nestjs,nodejs,prisma,spring)](https://skillicons.dev)\
 [![Infra](https://skillicons.dev/icons?i=azure,cloudflare,docker,gcp,grafana,prometheus)](https://skillicons.dev)\
 [![DB](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)\
 [![Mobile](https://skillicons.dev/icons?i=flutter,swift)](https://skillicons.dev)
-
+*/
 ### Tools ⚙️
 [![tools](https://skillicons.dev/icons?i=vscode,androidstudio,arduino,figma,github,git,idea,stackoverflow)](https://skillicons.dev)
 
