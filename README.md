@@ -4,7 +4,6 @@
 
 I'm just a noob CS student 😄
 
-<!--START_SECTION:waka
 ### My Skills 😤
 [![Frontend](https://skillicons.dev/icons?i=js,html,css,emotion,materialui,nextjs,react,sass,styledcomponents)](https://skillicons.dev)\
 [![Backend](https://skillicons.dev/icons?i=express,appwrite,firebase,nestjs,nodejs,prisma,spring)](https://skillicons.dev)\
