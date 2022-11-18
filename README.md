@@ -27,11 +27,11 @@ I'm just a noob CS student 😄
 
 ![](https://c.tenor.com/-Yw92Beo-f4AAAAC/anime-isshiki-iroha.gif)
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21xmsqllgu6rkaohjqu3k3fdy&unique=true)
+<!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21xmsqllgu6rkaohjqu3k3fdy&unique=true) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mixko50&show_icons=true&theme=material-palenight&count_private=true)]()
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mixko50&show_icons=true&theme=material-palenight&count_private=true)]() -->
 
-[![Steak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mixko50&theme=material-palenight)]()
+<!-- [![Steak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mixko50&theme=material-palenight)]() -->
 
 ### My top languages!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mixko50&layout=compact&theme=material-palenight&layout=compact&langs_count=7)]()
