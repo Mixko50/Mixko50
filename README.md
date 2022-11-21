@@ -33,8 +33,8 @@ I'm just a noob CS student 😄
 
 <!-- [![Steak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mixko50&theme=material-palenight)]() -->
 
-### My top languages!
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mixko50&layout=compact&theme=material-palenight&layout=compact&langs_count=7)]()
+<!-- ### My top languages!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mixko50&layout=compact&theme=material-palenight&layout=compact&langs_count=7)]() -->
 
 <!--START_SECTION:waka-->
 
