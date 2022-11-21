@@ -7,7 +7,7 @@ I'm just a noob CS student 😄
 ### My Skills 😤
 [![Frontend](https://skillicons.dev/icons?i=js,html,css,emotion,materialui,nextjs,react,sass,styledcomponents)](https://skillicons.dev)\
 [![Backend](https://skillicons.dev/icons?i=express,appwrite,firebase,nestjs,nodejs,prisma,spring)](https://skillicons.dev)\
-[![Infra](https://skillicons.dev/icons?i=azure,cloudflare,docker,gcp,grafana,prometheus)](https://skillicons.dev)\
+[![Infra](https://skillicons.dev/icons?i=azure,cloudflare,docker,gcp)](https://skillicons.dev)\
 [![DB](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)\
 [![Mobile](https://skillicons.dev/icons?i=flutter,swift)](https://skillicons.dev)
 
@@ -15,7 +15,7 @@ I'm just a noob CS student 😄
 [![tools](https://skillicons.dev/icons?i=vscode,androidstudio,arduino,figma,github,git,idea,stackoverflow)](https://skillicons.dev)
 
 ### Programmig Languages 💻
-[![LGs](https://skillicons.dev/icons?i=bash,c,dart,go,java,js,ts,swift,python)](https://skillicons.dev)
+[![LGs](https://skillicons.dev/icons?i=bash,dart,go,java,js,ts,swift)](https://skillicons.dev)
 
 ### Others 😅
 [![others](https://skillicons.dev/icons?i=linux,md,raspberrypi)](https://skillicons.dev)
