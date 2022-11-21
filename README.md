@@ -2,7 +2,7 @@
 
 ### My name is Apisit Maneerat (Mixko)
 
-I'm just a noob CS student 😄
+I'm just a noob CS student (SIT@KMUTT) 😄
 
 ### My Skills 😤
 [![Frontend](https://skillicons.dev/icons?i=js,html,css,emotion,materialui,nextjs,react,sass,styledcomponents)](https://skillicons.dev)\
