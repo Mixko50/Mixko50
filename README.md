@@ -3,7 +3,7 @@
 ### My name is Apisit Maneerat (Mixko)
 
 I'm just a noob CS student 😄
-<!-- 
+
 ### My Skills 😤
 [![Frontend](https://skillicons.dev/icons?i=js,html,css,emotion,materialui,nextjs,react,sass,styledcomponents)](https://skillicons.dev)\
 [![Backend](https://skillicons.dev/icons?i=express,appwrite,firebase,nestjs,nodejs,prisma,spring)](https://skillicons.dev)\
@@ -19,8 +19,8 @@ I'm just a noob CS student 😄
 
 ### Others 😅
 [![others](https://skillicons.dev/icons?i=linux,md,raspberrypi)](https://skillicons.dev)
-<!-- ### Social Networks 😅
-[![socials](https://skillicons.dev/icons?i=discord,twitter,instagram,linkedin)](https://skillicons.dev) -->
+### Social Networks 😅
+[![socials](https://skillicons.dev/icons?i=discord,twitter,instagram,linkedin)](https://skillicons.dev)
 
 ❤️
 
