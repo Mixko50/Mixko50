@@ -27,15 +27,18 @@ I'm just a noob CS student (SIT@KMUTT) 😄
  <summary>&nbsp;Mobile Development</summary>
  <img src='https://skillicons.dev/icons?i=swift' alt="mobile" height="40px"/>
 </details>
-
-### Tools ⚙️
-[![tools](https://skillicons.dev/icons?i=vscode,androidstudio,arduino,figma,github,git,idea,stackoverflow)](https://skillicons.dev)
-
-### Programmig Languages 💻
-[![LGs](https://skillicons.dev/icons?i=bash,go,java,js,ts,swift)](https://skillicons.dev)
-
-### Others 😅
-[![others](https://skillicons.dev/icons?i=linux,md,raspberrypi)](https://skillicons.dev)
+<details>
+  <summary>&nbsp;Tools ⚙️</summary>
+  <img src='https://skillicons.dev/icons?i=vscode,androidstudio,arduino,figma,github,git,idea,stackoverflow' alt="tools" height="40px"/>
+</details>
+<details>
+  <summary>&nbsp;Programmig Languages 💻</summary>
+  <img src='https://skillicons.dev/icons?i=bash,go,java,js,ts,swift' alt="programming_languages" height="40px"/>
+</details>
+<details>
+  <summary>&nbsp;Others 😅</summary>
+  <img src='https://skillicons.dev/icons?i=linux,md,raspberrypi' alt="others" height="40px"/>
+</details>
 <!-- ### Social Networks 😅
 [![socials](https://skillicons.dev/icons?i=discord,twitter,instagram,linkedin)](https://skillicons.dev) -->
 
