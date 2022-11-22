@@ -4,6 +4,8 @@
 
 I'm just a noob CS student (SIT@KMUTT) 😄
 
+[![Apple Music GitHub profile](https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=000115.c5fa3d2fc1eb4f438b229a40fd3edcbb.2257)](https://github.com/rayriffy/apple-music-github-profile)
+
 ### My Skills 😤
 [![Frontend](https://skillicons.dev/icons?i=js,html,css,emotion,materialui,nextjs,react,sass,styledcomponents)](https://skillicons.dev)\
 [![Backend](https://skillicons.dev/icons?i=express,appwrite,firebase,nestjs,nodejs,prisma,spring)](https://skillicons.dev)\
