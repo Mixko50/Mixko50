@@ -7,11 +7,26 @@ I'm just a noob CS student (SIT@KMUTT) 😄
 [![Apple Music GitHub profile](https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=000115.c5fa3d2fc1eb4f438b229a40fd3edcbb.2257)](https://github.com/rayriffy/apple-music-github-profile)
 
 ### My Skills 😤
+<details>
+  <summary>&nbsp;Frontend</summary>
 [![Frontend](https://skillicons.dev/icons?i=js,html,css,emotion,materialui,nextjs,react,sass,styledcomponents)](https://skillicons.dev)\
+</details>
+<details>
+  <summary>&nbsp;Backend</summary>
 [![Backend](https://skillicons.dev/icons?i=express,appwrite,firebase,nestjs,nodejs,prisma,spring)](https://skillicons.dev)\
+ </details>
+<details>
+ <summary>&nbsp;Infrastructure</summary>
 [![Infra](https://skillicons.dev/icons?i=azure,cloudflare,docker,gcp)](https://skillicons.dev)\
+</details>
+<details>
+ <summary>&nbsp;Database</summary>
 [![DB](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)\
+ </details>
+<details>
+ <summary>&nbsp;Mobile Development</summary>
 [![Mobile](https://skillicons.dev/icons?i=swift)](https://skillicons.dev)
+</details>
 
 ### Tools ⚙️
 [![tools](https://skillicons.dev/icons?i=vscode,androidstudio,arduino,figma,github,git,idea,stackoverflow)](https://skillicons.dev)
