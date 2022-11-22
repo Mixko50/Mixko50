@@ -13,19 +13,19 @@ I'm just a noob CS student (SIT@KMUTT) 😄
 </details>
 <details>
   <summary>&nbsp;Backend</summary>
-[![Backend](https://skillicons.dev/icons?i=express,appwrite,firebase,nestjs,nodejs,prisma,spring)](https://skillicons.dev)\
+  <img src='https://skillicons.dev/icons?i=express,appwrite,firebase,nestjs,nodejs,prisma,spring' alt="backend" height="40px"/>
  </details>
 <details>
  <summary>&nbsp;Infrastructure</summary>
-[![Infra](https://skillicons.dev/icons?i=azure,cloudflare,docker,gcp)](https://skillicons.dev)\
+ <img src='https://skillicons.dev/icons?i=azure,cloudflare,docker,gcp' alt="infra" height="40px"/>
 </details>
 <details>
  <summary>&nbsp;Database</summary>
-[![DB](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)\
+ <img src='https://skillicons.dev/icons?i=mysql,postgres,mongodb' alt="db" height="40px"/>
  </details>
 <details>
  <summary>&nbsp;Mobile Development</summary>
-[![Mobile](https://skillicons.dev/icons?i=swift)](https://skillicons.dev)
+ <img src='https://skillicons.dev/icons?i=swift' alt="mobile" height="40px"/>
 </details>
 
 ### Tools ⚙️
