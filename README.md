@@ -9,7 +9,7 @@ I'm just a noob CS student (SIT@KMUTT) 😄
 ### My Skills 😤
 <details>
   <summary>&nbsp;Frontend</summary>
-  <img src='https://skillicons.dev/icons?i=js,html,css,emotion,materialui,nextjs,react,sass,styledcomponents' alt="frontend" width="48px" height="40px"/>
+  <img src='https://skillicons.dev/icons?i=js,html,css,emotion,materialui,nextjs,react,sass,styledcomponents' alt="frontend" height="40px"/>
 </details>
 <details>
   <summary>&nbsp;Backend</summary>
