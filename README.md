@@ -2,7 +2,9 @@
 
 ### My name is Apisit Maneerat (Mixko)
 
-I'm just a noob CS student (SIT@KMUTT) 😄
+I'm just a Computer Science student who wants to become a Full Stack Developer 😄
+
+CS21 | SIT | KMUTT
 
 [![Apple Music GitHub profile](https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=000115.c5fa3d2fc1eb4f438b229a40fd3edcbb.2257)](https://github.com/rayriffy/apple-music-github-profile)
 
