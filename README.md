@@ -46,7 +46,7 @@ I'm just a noob CS student (SIT@KMUTT) 😄
 
 
 <!-- ![](https://c.tenor.com/-Yw92Beo-f4AAAAC/anime-isshiki-iroha.gif) -->
-![]([https://c.tenor.com/-Yw92Beo-f4AAAAC/anime-isshiki-iroha.gif](https://media.tenor.com/o-0LaJK3qWcAAAAC/yamada-ryou-yamada-ryo.gif))
+![](https://c.tenor.com/-Yw92Beo-f4AAAAC/anime-isshiki-iroha.gif](https://media.tenor.com/o-0LaJK3qWcAAAAC/yamada-ryou-yamada-ryo.gif)
 
 <!-- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21xmsqllgu6rkaohjqu3k3fdy&unique=true) -->
 
