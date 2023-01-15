@@ -28,15 +28,15 @@ I'm just a noob CS student (SIT@KMUTT) 😄
  <img src='https://skillicons.dev/icons?i=swift' alt="mobile" height="40px"/>
 </details>
 <details>
-  <summary>&nbsp;Tools ⚙️</summary>
+  <summary>&nbsp;Tools</summary>
   <img src='https://skillicons.dev/icons?i=vscode,androidstudio,arduino,figma,github,git,idea,stackoverflow' alt="tools" height="40px"/>
 </details>
 <details>
-  <summary>&nbsp;Programmig Languages 💻</summary>
+  <summary>&nbsp;Programmig Languages</summary>
   <img src='https://skillicons.dev/icons?i=bash,go,java,js,ts,swift' alt="programming_languages" height="40px"/>
 </details>
 <details>
-  <summary>&nbsp;Others 😅</summary>
+  <summary>&nbsp;Others</summary>
   <img src='https://skillicons.dev/icons?i=linux,md,raspberrypi' alt="others" height="40px"/>
 </details>
 <!-- ### Social Networks 😅
