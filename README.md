@@ -15,10 +15,10 @@ I'm just a noob CS student (SIT@KMUTT) 😄
   <summary>&nbsp;Backend</summary>
   <img src='https://skillicons.dev/icons?i=express,appwrite,firebase,nestjs,nodejs,prisma,spring' alt="backend" height="40px"/>
  </details>
-<details>
+<!-- <details>
  <summary>&nbsp;Infrastructure</summary>
  <img src='https://skillicons.dev/icons?i=azure,cloudflare,docker,gcp' alt="infra" height="40px"/>
-</details>
+</details> -->
 <details>
  <summary>&nbsp;Database</summary>
  <img src='https://skillicons.dev/icons?i=mysql,postgres,mongodb' alt="db" height="40px"/>
