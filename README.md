@@ -62,9 +62,9 @@ CS21 | SIT | KMUTT
 <!--START_SECTION:waka-->
 
 ```text
-HTML         56 mins         ████████████░░░░░░░░░░░░░   48.10 %
-JavaScript   35 mins         ███████▒░░░░░░░░░░░░░░░░░   29.82 %
-Other        16 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.31 %
+HTML         47 mins         ███████████░░░░░░░░░░░░░░   44.66 %
+JavaScript   34 mins         ████████░░░░░░░░░░░░░░░░░   32.29 %
+Other        16 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.71 %
 ```
 
 <!--END_SECTION:waka-->
