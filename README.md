@@ -62,7 +62,7 @@ CS21 | SIT | KMUTT
 <!--START_SECTION:waka-->
 
 ```text
-Other        16 mins         ██████████████████░░░░░░░   72.49 %
+Other        16 mins         ███████████████████████░░   92.14 %
 ```
 
 <!--END_SECTION:waka-->
