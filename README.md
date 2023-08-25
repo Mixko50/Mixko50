@@ -62,11 +62,11 @@ CS21 | SIT | KMUTT
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       3 hrs 54 mins   ████████████████▒░░░░░░░░   65.01 %
-TypeScript       51 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.25 %
-ActionScript 3   26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
-Markdown         19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-HTTP             15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+JavaScript       3 hrs 48 mins   ████████████████▒░░░░░░░░   65.38 %
+TypeScript       46 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 %
+ActionScript 3   26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
+Markdown         19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+HTTP             15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
 ```
 
 <!--END_SECTION:waka-->
