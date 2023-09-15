@@ -62,9 +62,9 @@ CS21 | SIT | KMUTT
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    3 hrs 5 mins    ████████████████████░░░░░   80.60 %
-JavaScript    42 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.61 %
-Objective-C   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+TypeScript    2 hrs 17 mins   ███████████████████░░░░░░   75.54 %
+JavaScript    42 mins         ██████░░░░░░░░░░░░░░░░░░░   23.46 %
+Objective-C   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
