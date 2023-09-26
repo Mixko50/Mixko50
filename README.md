@@ -62,11 +62,11 @@ CS21 | SIT | KMUTT
 <!--START_SECTION:waka-->
 
 ```txt
-Dart           2 hrs 49 mins   ██████░░░░░░░░░░░░░░░░░░░   24.11 %
-TypeScript     2 hrs 44 mins   ██████░░░░░░░░░░░░░░░░░░░   23.36 %
-YAML           1 hr 40 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 %
-JavaScript     1 hr 18 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
-Docker         1 hr 4 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
+Dart             3 hrs 33 mins   ███████▓░░░░░░░░░░░░░░░░░   30.60 %
+TypeScript       2 hrs 42 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.22 %
+Go               2 hrs 39 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.89 %
+JavaScript       1 hr 17 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
+Swift            55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
 ```
 
 <!--END_SECTION:waka-->
