@@ -62,11 +62,11 @@ CS21 | SIT | KMUTT
 <!--START_SECTION:waka-->
 
 ```txt
-Go               4 hrs 36 mins   █████████░░░░░░░░░░░░░░░░   36.31 %
-TypeScript       3 hrs 4 mins    ██████░░░░░░░░░░░░░░░░░░░   24.22 %
-Dart             2 hrs 34 mins   █████░░░░░░░░░░░░░░░░░░░░   20.21 %
-JavaScript       1 hr 15 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
-Groovy           21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+TypeScript       5 hrs 35 mins   █████████▒░░░░░░░░░░░░░░░   37.78 %
+Go               4 hrs 36 mins   ███████▓░░░░░░░░░░░░░░░░░   31.17 %
+Dart             2 hrs 14 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 %
+JavaScript       1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
+Groovy           21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
 ```
 
 <!--END_SECTION:waka-->
