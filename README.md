@@ -62,11 +62,11 @@ CS21 | SIT | KMUTT
 <!--START_SECTION:waka-->
 
 ```txt
-SQL          1 hr 51 mins    ████████████▒░░░░░░░░░░░░   48.80 %
-TypeScript   1 hr 21 mins    █████████░░░░░░░░░░░░░░░░   35.75 %
-Markdown     15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
-JavaScript   14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
-Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+SQL          1 hr 49 mins    █████████████░░░░░░░░░░░░   51.91 %
+TypeScript   1 hr 6 mins     ████████░░░░░░░░░░░░░░░░░   31.43 %
+Markdown     15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
+JavaScript   14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
+Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 ```
 
 <!--END_SECTION:waka-->
