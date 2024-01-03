@@ -6,8 +6,6 @@ I'm just a Computer Science student who wants to become a Backend and iOS Develo
 
 CS21 | SIT | KMUTT
 
-[![Apple Music GitHub profile](https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=000115.c5fa3d2fc1eb4f438b229a40fd3edcbb.2257)](https://github.com/rayriffy/apple-music-github-profile)
-
 ### My Skills 😤
 <details>
   <summary>&nbsp;Frontend</summary>
