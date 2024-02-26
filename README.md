@@ -2,7 +2,7 @@
 
 ### My name is Apisit Maneerat (Mixko)
 
-I'm just a Computer Science student who wants to become a Backend and iOS Developer 😄
+I'm just a Computer Science student who wants to become a Backend Developer 😄
 
 CS21 | SIT | KMUTT
 
