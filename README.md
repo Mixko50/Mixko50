@@ -60,11 +60,7 @@ CS21 | SIT | KMUTT
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 3 mins    ██████████░░░░░░░░░░░░░░░   40.49 %
-Go           1 hr 15 mins    ██████░░░░░░░░░░░░░░░░░░░   24.60 %
-Other        1 hr 8 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.31 %
-SQL          24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
-textmate     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Other   1 hr 3 mins     █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
