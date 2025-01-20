@@ -60,7 +60,11 @@ CS21 | SIT | KMUTT
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go           1 hr 26 mins    ██████████████▒░░░░░░░░░░   57.93 %
+TypeScript   22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 %
+Other        17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
+.env file    11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
+Bash         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
 ```
 
 <!--END_SECTION:waka-->
