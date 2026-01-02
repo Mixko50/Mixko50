@@ -60,11 +60,11 @@ CS21 | SIT | KMUTT
 <!--START_SECTION:waka-->
 
 ```txt
-Bash              1 hr 42 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.97 %
-Text              1 hr 11 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.06 %
-Java Properties   51 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
-Shell Script      50 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 %
-Properties        43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
+Bash              1 hr 6 mins     ████████▓░░░░░░░░░░░░░░░░   34.31 %
+Shell Script      43 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.06 %
+Text              20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
+Makefile          18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
+Markdown          18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
 ```
 
 <!--END_SECTION:waka-->
