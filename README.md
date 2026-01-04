@@ -60,11 +60,7 @@ CS21 | SIT | KMUTT
 <!--START_SECTION:waka-->
 
 ```txt
-Bash              1 hr 6 mins     ████████▓░░░░░░░░░░░░░░░░   34.31 %
-Shell Script      43 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.06 %
-Text              20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
-Makefile          18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
-Markdown          18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
