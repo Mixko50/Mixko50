@@ -60,7 +60,11 @@ CS21 | SIT | KMUTT
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go                1 hr 32 mins    ███████████████████████▒░   93.26 %
+Markdown          5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+Shell Script      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Bash              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
