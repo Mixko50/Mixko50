@@ -60,11 +60,11 @@ CS21 | SIT | KMUTT
 <!--START_SECTION:waka-->
 
 ```txt
-Go                6 hrs 4 mins    ████████████████████████▓   98.08 %
-Markdown          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-Shell Script      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-YAML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Go                8 hrs 20 mins   ████████████████████████▓   98.59 %
+Markdown          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Shell Script      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+YAML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
