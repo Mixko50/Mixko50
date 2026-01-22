@@ -60,11 +60,7 @@ CS21 | SIT | KMUTT
 <!--START_SECTION:waka-->
 
 ```txt
-Go                  5 hrs 17 mins   ██████████████████████▒░░   88.94 %
-Makefile            10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-.env file           8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-YAML                7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-Bash                5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
