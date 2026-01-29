@@ -60,7 +60,11 @@ CS21 | SIT | KMUTT
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go           52 mins         ██████████████████▓░░░░░░   75.25 %
+JSON         5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
+YAML         5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+Markdown     5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
+Docker       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->
