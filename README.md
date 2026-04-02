@@ -60,11 +60,11 @@ CS21 | SIT | KMUTT
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform      4 hrs 43 mins         ███████░░░░░░░░░░░░░░░░░░   27.70 %
-Go             4 hrs 15 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.99 %
-YAML           1 hr 53 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
-TypeScript     1 hr 34 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
-Markdown       1 hr 11 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
+Go             4 hrs 54 mins         ███████░░░░░░░░░░░░░░░░░░   27.56 %
+Terraform      3 hrs 29 mins         █████░░░░░░░░░░░░░░░░░░░░   19.64 %
+YAML           2 hrs 46 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.60 %
+TypeScript     1 hr 34 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+Markdown       1 hr 10 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
 ```
 
 <!--END_SECTION:waka-->
