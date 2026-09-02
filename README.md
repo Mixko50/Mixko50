@@ -60,10 +60,7 @@ CS21 | SIT | KMUTT
 <!--START_SECTION:waka-->
 
 ```txt
-Go         1 hr 20 mins          ██████████████████████░░░   87.38 %
-Bash       10 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
-JSON       0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
