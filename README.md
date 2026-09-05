@@ -60,7 +60,8 @@ CS21 | SIT | KMUTT
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash    11 mins               █████████████████████░░░░   83.67 %
+Other   2 mins                ████░░░░░░░░░░░░░░░░░░░░░   16.33 %
 ```
 
 <!--END_SECTION:waka-->
