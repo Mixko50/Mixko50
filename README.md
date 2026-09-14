@@ -60,9 +60,7 @@ CS21 | SIT | KMUTT
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin   43 mins               ███████████████████▓░░░░░   79.24 %
-Other    5 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 %
-XML      5 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
+Other   5 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
