@@ -60,11 +60,11 @@ CS21 | SIT | KMUTT
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte       4 hrs 50 mins         ████████░░░░░░░░░░░░░░░░░   31.51 %
-Markdown     3 hrs 12 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.84 %
-TypeScript   1 hr 51 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
-TSConfig     1 hr 43 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
-Go           1 hr 39 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
+Svelte       4 hrs 19 mins         ████████▒░░░░░░░░░░░░░░░░   33.87 %
+Markdown     4 hrs 5 mins          ████████░░░░░░░░░░░░░░░░░   32.09 %
+TypeScript   1 hr 34 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
+Go           1 hr 8 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
+TSConfig     28 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
 ```
 
 <!--END_SECTION:waka-->
